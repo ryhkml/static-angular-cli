@@ -1,6 +1,6 @@
 {
   "name": "static-angular-cli",
-  "version": "1.0.0",
+  "version": "18.2.8-rev1",
   "main": "node_modules/@angular/cli/bin/ng.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
