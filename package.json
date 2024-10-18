@@ -1,14 +1,11 @@
 {
-  "name": "static-angular-cli",
-  "version": "18.2.8-rev1",
-  "main": "node_modules/@angular/cli/bin/ng.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Reyhan Kamil",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@angular/cli": "^18.2.8"
-  }
+    "name": "static-angular-cli",
+    "version": "18.2.9",
+    "main": "node_modules/@angular/cli/bin/ng.js",
+    "license": "ISC",
+    "author": "Google",
+    "description": "",
+    "dependencies": {
+        "@angular/cli": "^18.2.9"
+    }
 }
