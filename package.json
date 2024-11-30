@@ -1,10 +1,10 @@
 {
 	"name": "static-angular-cli",
-	"version": "18.2.12",
+	"version": "19.0.2",
 	"main": "node_modules/.bin/ng",
 	"author": "Google",
 	"description": "",
 	"dependencies": {
-		"@angular/cli": "^18.2.12"
+		"@angular/cli": "^19.0.2"
 	}
 }
