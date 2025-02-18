@@ -1,1 +1,4 @@
 node_modules/.cache
+node_modules/**/*.d.ts
+node_modules/**/LICENSE
+node_modules/**/*.md
